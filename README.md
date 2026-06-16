@@ -5,7 +5,7 @@
 ### Cloud & Infrastructure Architect | 13+ Years | Azure · AWS · Citrix · VMware
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhrastogi/)
-[![Location](https://img.shields.io/badge/Dover%2C%20NH-Greater%20Boston%20Area-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Greater%20Boston%20Area-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-rastogis%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rastogis@hotmail.com)
 
 </div>
